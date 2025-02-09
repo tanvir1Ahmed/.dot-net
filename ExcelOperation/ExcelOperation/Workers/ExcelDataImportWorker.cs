@@ -23,7 +23,7 @@ namespace ExcelOperation.Workers
             logger.LogInformation("Total members: {studentCount} from Request {requestId}",
                 students.Count,
                 request.RequestId);
-            await studentRepo.AddAsync(students);
+            await studentRepo.Create(students);
             logger.LogInformation($"{request.RequestId} processed sucessfully.");
         }
 

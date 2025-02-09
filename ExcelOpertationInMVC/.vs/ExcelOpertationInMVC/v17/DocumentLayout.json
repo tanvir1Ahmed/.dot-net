@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Md. Tanvir Ahmed\\Desktop\\Animedcare\\AnimedCare\\ExcelOpertationInMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B9F50ED1-9CE7-4644-AE73-07D16A296EB0}|ExcelOpertationInMVC\\ExcelOpertationInMVC.csproj|c:\\users\\md. tanvir ahmed\\desktop\\animedcare\\animedcare\\excelopertationinmvc\\excelopertationinmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9F50ED1-9CE7-4644-AE73-07D16A296EB0}|ExcelOpertationInMVC\\ExcelOpertationInMVC.csproj|solutionrelative:excelopertationinmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9F50ED1-9CE7-4644-AE73-07D16A296EB0}|ExcelOpertationInMVC\\ExcelOpertationInMVC.csproj|c:\\users\\md. tanvir ahmed\\desktop\\animedcare\\animedcare\\excelopertationinmvc\\excelopertationinmvc\\views\\home\\uploadexcel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B9F50ED1-9CE7-4644-AE73-07D16A296EB0}|ExcelOpertationInMVC\\ExcelOpertationInMVC.csproj|solutionrelative:excelopertationinmvc\\views\\home\\uploadexcel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 218,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UploadExcel.cshtml",
+              "DocumentMoniker": "C:\\Users\\Md. Tanvir Ahmed\\Desktop\\Animedcare\\AnimedCare\\ExcelOpertationInMVC\\ExcelOpertationInMVC\\Views\\Home\\UploadExcel.cshtml",
+              "RelativeDocumentMoniker": "ExcelOpertationInMVC\\Views\\Home\\UploadExcel.cshtml",
+              "ToolTip": "C:\\Users\\Md. Tanvir Ahmed\\Desktop\\Animedcare\\AnimedCare\\ExcelOpertationInMVC\\ExcelOpertationInMVC\\Views\\Home\\UploadExcel.cshtml",
+              "RelativeToolTip": "ExcelOpertationInMVC\\Views\\Home\\UploadExcel.cshtml",
+              "ViewState": "AgIAABoAAAAAAAAAAIAwwCgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-09T02:45:07.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Md. Tanvir Ahmed\\Desktop\\Animedcare\\AnimedCare\\ExcelOpertationInMVC\\ExcelOpertationInMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ExcelOpertationInMVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Md. Tanvir Ahmed\\Desktop\\Animedcare\\AnimedCare\\ExcelOpertationInMVC\\ExcelOpertationInMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ExcelOpertationInMVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAYwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T02:42:22.176Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

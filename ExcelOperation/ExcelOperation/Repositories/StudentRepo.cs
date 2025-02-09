@@ -1,10 +1,11 @@
-﻿using ExcelOperation.Model;
+﻿using ExcelOperation.Interfaces;
+using ExcelOperation.Model;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
 namespace ExcelOperation.Repositories
 {
-    public class StudentRepo:DbContext
+    public class StudentRepo:IStudent
     {
         private readonly StudentDbContext dbContext;
 
@@ -12,11 +13,14 @@ namespace ExcelOperation.Repositories
         {
             this.dbContext = dbContext;
         }
+
         public async Task<List<Student>> Create(List<Student> student)
         {
-            foreach(var studentItem in student)
+            //var list = new List<Student>();
+            foreach(var s in student)
             {
-                await dbContext.Students.AddAsync(studentItem);
+                //list.Add(s);
+                await dbContext.Students.AddAsync(s);
             }
             return student;
         }

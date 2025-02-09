@@ -1,4 +1,5 @@
 using ExcelOperation.BackgroundServices;
+using ExcelOperation.Interfaces;
 using ExcelOperation.Model;
 using ExcelOperation.Repositories;
 using ExcelOperation.Services;
@@ -14,10 +15,11 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddDbContext<StudentDbContext>(options =>
 {
-    options.UseSqlServer("Server=L1405\\SQLEXPRESS;Database=ExcelDb;Trusted_connection=true;TrustServerCertificate=true");
+    options.UseSqlServer("Server=DESKTOP-G67R1RV\\SQLEXPRESS;Database=ExcelDb;Trusted_connection=true;TrustServerCertificate=true");
 });
 //builder.Services.AddSingleton<StudentRepo>();
-//builder.Services.AddSingleton<ExcelDataImportServices>();
+builder.Services.AddScoped<IStudent, StudentRepo>();
+builder.Services.AddSingleton<ExcelDataImportServices>();
 
 //builder.Services.AddHostedService<SimpleService1>();
 //builder.Services.AddHostedService<SimpleService2>();

@@ -1,74 +1,78 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\AMC Dev\\Desktop\\Tanvir\\ExcelOperation\\",
+  "WorkspaceRootPath": "C:\\Users\\Md. Tanvir Ahmed\\Desktop\\Animedcare\\.dot-net\\ExcelOperation\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0ABAAB0D-98D8-4D90-9C9B-B4CB1FD7C7C4}|ExcelOperation\\ExcelOperation.csproj|c:\\users\\amc dev\\desktop\\tanvir\\exceloperation\\exceloperation\\model\\exceldataimportrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0ABAAB0D-98D8-4D90-9C9B-B4CB1FD7C7C4}|ExcelOperation\\ExcelOperation.csproj|solutionrelative:exceloperation\\model\\exceldataimportrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0ABAAB0D-98D8-4D90-9C9B-B4CB1FD7C7C4}|ExcelOperation\\ExcelOperation.csproj|c:\\users\\amc dev\\desktop\\tanvir\\exceloperation\\exceloperation\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0ABAAB0D-98D8-4D90-9C9B-B4CB1FD7C7C4}|ExcelOperation\\ExcelOperation.csproj|solutionrelative:exceloperation\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0ABAAB0D-98D8-4D90-9C9B-B4CB1FD7C7C4}|ExcelOperation\\ExcelOperation.csproj|c:\\users\\amc dev\\desktop\\tanvir\\exceloperation\\exceloperation\\model\\uploadresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0ABAAB0D-98D8-4D90-9C9B-B4CB1FD7C7C4}|ExcelOperation\\ExcelOperation.csproj|solutionrelative:exceloperation\\model\\uploadresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0ABAAB0D-98D8-4D90-9C9B-B4CB1FD7C7C4}|ExcelOperation\\ExcelOperation.csproj|c:\\users\\amc dev\\desktop\\tanvir\\exceloperation\\exceloperation\\model\\uploadrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0ABAAB0D-98D8-4D90-9C9B-B4CB1FD7C7C4}|ExcelOperation\\ExcelOperation.csproj|solutionrelative:exceloperation\\model\\uploadrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0ABAAB0D-98D8-4D90-9C9B-B4CB1FD7C7C4}|ExcelOperation\\ExcelOperation.csproj|c:\\users\\amc dev\\desktop\\tanvir\\exceloperation\\exceloperation\\controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0ABAAB0D-98D8-4D90-9C9B-B4CB1FD7C7C4}|ExcelOperation\\ExcelOperation.csproj|solutionrelative:exceloperation\\controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0ABAAB0D-98D8-4D90-9C9B-B4CB1FD7C7C4}|ExcelOperation\\ExcelOperation.csproj|c:\\users\\amc dev\\desktop\\tanvir\\exceloperation\\exceloperation\\repositories\\studentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0ABAAB0D-98D8-4D90-9C9B-B4CB1FD7C7C4}|ExcelOperation\\ExcelOperation.csproj|solutionrelative:exceloperation\\repositories\\studentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0ABAAB0D-98D8-4D90-9C9B-B4CB1FD7C7C4}|ExcelOperation\\ExcelOperation.csproj|c:\\users\\amc dev\\desktop\\tanvir\\exceloperation\\exceloperation\\workers\\exceldataimportworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0ABAAB0D-98D8-4D90-9C9B-B4CB1FD7C7C4}|ExcelOperation\\ExcelOperation.csproj|solutionrelative:exceloperation\\workers\\exceldataimportworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0ABAAB0D-98D8-4D90-9C9B-B4CB1FD7C7C4}|ExcelOperation\\ExcelOperation.csproj|c:\\users\\amc dev\\desktop\\tanvir\\exceloperation\\exceloperation\\services\\exceldataimportservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0ABAAB0D-98D8-4D90-9C9B-B4CB1FD7C7C4}|ExcelOperation\\ExcelOperation.csproj|solutionrelative:exceloperation\\services\\exceldataimportservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0ABAAB0D-98D8-4D90-9C9B-B4CB1FD7C7C4}|ExcelOperation\\ExcelOperation.csproj|c:\\users\\amc dev\\desktop\\tanvir\\exceloperation\\exceloperation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0ABAAB0D-98D8-4D90-9C9B-B4CB1FD7C7C4}|ExcelOperation\\ExcelOperation.csproj|c:\\users\\md. tanvir ahmed\\desktop\\animedcare\\.dot-net\\exceloperation\\exceloperation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0ABAAB0D-98D8-4D90-9C9B-B4CB1FD7C7C4}|ExcelOperation\\ExcelOperation.csproj|solutionrelative:exceloperation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0ABAAB0D-98D8-4D90-9C9B-B4CB1FD7C7C4}|ExcelOperation\\ExcelOperation.csproj|c:\\users\\amc dev\\desktop\\tanvir\\exceloperation\\exceloperation\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{0ABAAB0D-98D8-4D90-9C9B-B4CB1FD7C7C4}|ExcelOperation\\ExcelOperation.csproj|c:\\users\\md. tanvir ahmed\\desktop\\animedcare\\.dot-net\\exceloperation\\exceloperation\\repositories\\studentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ABAAB0D-98D8-4D90-9C9B-B4CB1FD7C7C4}|ExcelOperation\\ExcelOperation.csproj|solutionrelative:exceloperation\\repositories\\studentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ABAAB0D-98D8-4D90-9C9B-B4CB1FD7C7C4}|ExcelOperation\\ExcelOperation.csproj|c:\\users\\md. tanvir ahmed\\desktop\\animedcare\\.dot-net\\exceloperation\\exceloperation\\interfaces\\istudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ABAAB0D-98D8-4D90-9C9B-B4CB1FD7C7C4}|ExcelOperation\\ExcelOperation.csproj|solutionrelative:exceloperation\\interfaces\\istudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ABAAB0D-98D8-4D90-9C9B-B4CB1FD7C7C4}|ExcelOperation\\ExcelOperation.csproj|c:\\users\\md. tanvir ahmed\\desktop\\animedcare\\.dot-net\\exceloperation\\exceloperation\\workers\\exceldataimportworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ABAAB0D-98D8-4D90-9C9B-B4CB1FD7C7C4}|ExcelOperation\\ExcelOperation.csproj|solutionrelative:exceloperation\\workers\\exceldataimportworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ABAAB0D-98D8-4D90-9C9B-B4CB1FD7C7C4}|ExcelOperation\\ExcelOperation.csproj|c:\\users\\md. tanvir ahmed\\desktop\\animedcare\\.dot-net\\exceloperation\\exceloperation\\controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ABAAB0D-98D8-4D90-9C9B-B4CB1FD7C7C4}|ExcelOperation\\ExcelOperation.csproj|solutionrelative:exceloperation\\controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Md. Tanvir Ahmed\\Desktop\\Animedcare\\.dot-net\\ExcelOperation\\ExcelOperation\\Migrations\\20250208163006_Adding Student table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ExcelOperation\\Migrations\\20250208163006_Adding Student table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ABAAB0D-98D8-4D90-9C9B-B4CB1FD7C7C4}|ExcelOperation\\ExcelOperation.csproj|c:\\users\\md. tanvir ahmed\\desktop\\animedcare\\.dot-net\\exceloperation\\exceloperation\\model\\exceldataimportrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ABAAB0D-98D8-4D90-9C9B-B4CB1FD7C7C4}|ExcelOperation\\ExcelOperation.csproj|solutionrelative:exceloperation\\model\\exceldataimportrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ABAAB0D-98D8-4D90-9C9B-B4CB1FD7C7C4}|ExcelOperation\\ExcelOperation.csproj|c:\\users\\md. tanvir ahmed\\desktop\\animedcare\\.dot-net\\exceloperation\\exceloperation\\model\\studentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ABAAB0D-98D8-4D90-9C9B-B4CB1FD7C7C4}|ExcelOperation\\ExcelOperation.csproj|solutionrelative:exceloperation\\model\\studentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ABAAB0D-98D8-4D90-9C9B-B4CB1FD7C7C4}|ExcelOperation\\ExcelOperation.csproj|c:\\users\\md. tanvir ahmed\\desktop\\animedcare\\.dot-net\\exceloperation\\exceloperation\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ABAAB0D-98D8-4D90-9C9B-B4CB1FD7C7C4}|ExcelOperation\\ExcelOperation.csproj|solutionrelative:exceloperation\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ABAAB0D-98D8-4D90-9C9B-B4CB1FD7C7C4}|ExcelOperation\\ExcelOperation.csproj|c:\\users\\md. tanvir ahmed\\desktop\\animedcare\\.dot-net\\exceloperation\\exceloperation\\model\\uploadresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ABAAB0D-98D8-4D90-9C9B-B4CB1FD7C7C4}|ExcelOperation\\ExcelOperation.csproj|solutionrelative:exceloperation\\model\\uploadresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ABAAB0D-98D8-4D90-9C9B-B4CB1FD7C7C4}|ExcelOperation\\ExcelOperation.csproj|c:\\users\\md. tanvir ahmed\\desktop\\animedcare\\.dot-net\\exceloperation\\exceloperation\\model\\uploadrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ABAAB0D-98D8-4D90-9C9B-B4CB1FD7C7C4}|ExcelOperation\\ExcelOperation.csproj|solutionrelative:exceloperation\\model\\uploadrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ABAAB0D-98D8-4D90-9C9B-B4CB1FD7C7C4}|ExcelOperation\\ExcelOperation.csproj|c:\\users\\md. tanvir ahmed\\desktop\\animedcare\\.dot-net\\exceloperation\\exceloperation\\services\\exceldataimportservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ABAAB0D-98D8-4D90-9C9B-B4CB1FD7C7C4}|ExcelOperation\\ExcelOperation.csproj|solutionrelative:exceloperation\\services\\exceldataimportservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ABAAB0D-98D8-4D90-9C9B-B4CB1FD7C7C4}|ExcelOperation\\ExcelOperation.csproj|c:\\users\\md. tanvir ahmed\\desktop\\animedcare\\.dot-net\\exceloperation\\exceloperation\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{0ABAAB0D-98D8-4D90-9C9B-B4CB1FD7C7C4}|ExcelOperation\\ExcelOperation.csproj|solutionrelative:exceloperation\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0ABAAB0D-98D8-4D90-9C9B-B4CB1FD7C7C4}|ExcelOperation\\ExcelOperation.csproj|c:\\users\\amc dev\\desktop\\tanvir\\exceloperation\\exceloperation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{0ABAAB0D-98D8-4D90-9C9B-B4CB1FD7C7C4}|ExcelOperation\\ExcelOperation.csproj|c:\\users\\md. tanvir ahmed\\desktop\\animedcare\\.dot-net\\exceloperation\\exceloperation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{0ABAAB0D-98D8-4D90-9C9B-B4CB1FD7C7C4}|ExcelOperation\\ExcelOperation.csproj|solutionrelative:exceloperation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0ABAAB0D-98D8-4D90-9C9B-B4CB1FD7C7C4}|ExcelOperation\\ExcelOperation.csproj|c:\\users\\amc dev\\desktop\\tanvir\\exceloperation\\exceloperation\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0ABAAB0D-98D8-4D90-9C9B-B4CB1FD7C7C4}|ExcelOperation\\ExcelOperation.csproj|c:\\users\\md. tanvir ahmed\\desktop\\animedcare\\.dot-net\\exceloperation\\exceloperation\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0ABAAB0D-98D8-4D90-9C9B-B4CB1FD7C7C4}|ExcelOperation\\ExcelOperation.csproj|solutionrelative:exceloperation\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0ABAAB0D-98D8-4D90-9C9B-B4CB1FD7C7C4}|ExcelOperation\\ExcelOperation.csproj|c:\\users\\amc dev\\desktop\\tanvir\\exceloperation\\exceloperation\\backgroundservices\\simpleservice1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0ABAAB0D-98D8-4D90-9C9B-B4CB1FD7C7C4}|ExcelOperation\\ExcelOperation.csproj|c:\\users\\md. tanvir ahmed\\desktop\\animedcare\\.dot-net\\exceloperation\\exceloperation\\backgroundservices\\simpleservice1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0ABAAB0D-98D8-4D90-9C9B-B4CB1FD7C7C4}|ExcelOperation\\ExcelOperation.csproj|solutionrelative:exceloperation\\backgroundservices\\simpleservice1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0ABAAB0D-98D8-4D90-9C9B-B4CB1FD7C7C4}|ExcelOperation\\ExcelOperation.csproj|c:\\users\\amc dev\\desktop\\tanvir\\exceloperation\\exceloperation\\exceloperation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{0ABAAB0D-98D8-4D90-9C9B-B4CB1FD7C7C4}|ExcelOperation\\ExcelOperation.csproj|c:\\users\\md. tanvir ahmed\\desktop\\animedcare\\.dot-net\\exceloperation\\exceloperation\\exceloperation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{0ABAAB0D-98D8-4D90-9C9B-B4CB1FD7C7C4}|ExcelOperation\\ExcelOperation.csproj|solutionrelative:exceloperation\\exceloperation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0ABAAB0D-98D8-4D90-9C9B-B4CB1FD7C7C4}|ExcelOperation\\ExcelOperation.csproj|c:\\users\\amc dev\\desktop\\tanvir\\exceloperation\\exceloperation\\backgroundservices\\simpleservice2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0ABAAB0D-98D8-4D90-9C9B-B4CB1FD7C7C4}|ExcelOperation\\ExcelOperation.csproj|c:\\users\\md. tanvir ahmed\\desktop\\animedcare\\.dot-net\\exceloperation\\exceloperation\\backgroundservices\\simpleservice2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0ABAAB0D-98D8-4D90-9C9B-B4CB1FD7C7C4}|ExcelOperation\\ExcelOperation.csproj|solutionrelative:exceloperation\\backgroundservices\\simpleservice2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\AMC Dev\\Desktop\\Tanvir\\ExcelOperation\\ExcelOperation\\Migrations\\20250208052936_Creating Student table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ExcelOperation\\Migrations\\20250208052936_Creating Student table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0ABAAB0D-98D8-4D90-9C9B-B4CB1FD7C7C4}|ExcelOperation\\ExcelOperation.csproj|c:\\users\\amc dev\\desktop\\tanvir\\exceloperation\\exceloperation\\model\\studentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0ABAAB0D-98D8-4D90-9C9B-B4CB1FD7C7C4}|ExcelOperation\\ExcelOperation.csproj|solutionrelative:exceloperation\\model\\studentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -78,228 +82,232 @@
       "DocumentGroups": [
         {
           "DockedWidth": 218,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MemberController.cs",
-              "DocumentMoniker": "C:\\Users\\AMC Dev\\Desktop\\Tanvir\\ExcelOperation\\ExcelOperation\\Controllers\\MemberController.cs",
-              "RelativeDocumentMoniker": "ExcelOperation\\Controllers\\MemberController.cs",
-              "ToolTip": "C:\\Users\\AMC Dev\\Desktop\\Tanvir\\ExcelOperation\\ExcelOperation\\Controllers\\MemberController.cs",
-              "RelativeToolTip": "ExcelOperation\\Controllers\\MemberController.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAcwCMAAAAlAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "IStudent.cs",
+              "DocumentMoniker": "C:\\Users\\Md. Tanvir Ahmed\\Desktop\\Animedcare\\.dot-net\\ExcelOperation\\ExcelOperation\\Interfaces\\IStudent.cs",
+              "RelativeDocumentMoniker": "ExcelOperation\\Interfaces\\IStudent.cs",
+              "ToolTip": "C:\\Users\\Md. Tanvir Ahmed\\Desktop\\Animedcare\\.dot-net\\ExcelOperation\\ExcelOperation\\Interfaces\\IStudent.cs",
+              "RelativeToolTip": "ExcelOperation\\Interfaces\\IStudent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-08T10:40:59.852Z",
+              "WhenOpened": "2025-02-08T16:51:39.659Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "20250208163006_Adding Student table.cs",
+              "DocumentMoniker": "C:\\Users\\Md. Tanvir Ahmed\\Desktop\\Animedcare\\.dot-net\\ExcelOperation\\ExcelOperation\\Migrations\\20250208163006_Adding Student table.cs",
+              "RelativeDocumentMoniker": "ExcelOperation\\Migrations\\20250208163006_Adding Student table.cs",
+              "ToolTip": "C:\\Users\\Md. Tanvir Ahmed\\Desktop\\Animedcare\\.dot-net\\ExcelOperation\\ExcelOperation\\Migrations\\20250208163006_Adding Student table.cs",
+              "RelativeToolTip": "ExcelOperation\\Migrations\\20250208163006_Adding Student table.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T16:30:06.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "StudentRepo.cs",
-              "DocumentMoniker": "C:\\Users\\AMC Dev\\Desktop\\Tanvir\\ExcelOperation\\ExcelOperation\\Repositories\\StudentRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Md. Tanvir Ahmed\\Desktop\\Animedcare\\.dot-net\\ExcelOperation\\ExcelOperation\\Repositories\\StudentRepo.cs",
               "RelativeDocumentMoniker": "ExcelOperation\\Repositories\\StudentRepo.cs",
-              "ToolTip": "C:\\Users\\AMC Dev\\Desktop\\Tanvir\\ExcelOperation\\ExcelOperation\\Repositories\\StudentRepo.cs",
+              "ToolTip": "C:\\Users\\Md. Tanvir Ahmed\\Desktop\\Animedcare\\.dot-net\\ExcelOperation\\ExcelOperation\\Repositories\\StudentRepo.cs",
               "RelativeToolTip": "ExcelOperation\\Repositories\\StudentRepo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAcAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-08T06:06:55.452Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UploadRequest.cs",
-              "DocumentMoniker": "C:\\Users\\AMC Dev\\Desktop\\Tanvir\\ExcelOperation\\ExcelOperation\\Model\\UploadRequest.cs",
-              "RelativeDocumentMoniker": "ExcelOperation\\Model\\UploadRequest.cs",
-              "ToolTip": "C:\\Users\\AMC Dev\\Desktop\\Tanvir\\ExcelOperation\\ExcelOperation\\Model\\UploadRequest.cs",
-              "RelativeToolTip": "ExcelOperation\\Model\\UploadRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-08T06:11:23.736Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UploadResponse.cs",
-              "DocumentMoniker": "C:\\Users\\AMC Dev\\Desktop\\Tanvir\\ExcelOperation\\ExcelOperation\\Model\\UploadResponse.cs",
-              "RelativeDocumentMoniker": "ExcelOperation\\Model\\UploadResponse.cs",
-              "ToolTip": "C:\\Users\\AMC Dev\\Desktop\\Tanvir\\ExcelOperation\\ExcelOperation\\Model\\UploadResponse.cs",
-              "RelativeToolTip": "ExcelOperation\\Model\\UploadResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-08T06:14:50.239Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Student.cs",
-              "DocumentMoniker": "C:\\Users\\AMC Dev\\Desktop\\Tanvir\\ExcelOperation\\ExcelOperation\\Model\\Student.cs",
-              "RelativeDocumentMoniker": "ExcelOperation\\Model\\Student.cs",
-              "ToolTip": "C:\\Users\\AMC Dev\\Desktop\\Tanvir\\ExcelOperation\\ExcelOperation\\Model\\Student.cs",
-              "RelativeToolTip": "ExcelOperation\\Model\\Student.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAuwAUAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-08T05:15:36.496Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ExcelDataImportRequest.cs",
-              "DocumentMoniker": "C:\\Users\\AMC Dev\\Desktop\\Tanvir\\ExcelOperation\\ExcelOperation\\Model\\ExcelDataImportRequest.cs",
-              "RelativeDocumentMoniker": "ExcelOperation\\Model\\ExcelDataImportRequest.cs",
-              "ToolTip": "C:\\Users\\AMC Dev\\Desktop\\Tanvir\\ExcelOperation\\ExcelOperation\\Model\\ExcelDataImportRequest.cs",
-              "RelativeToolTip": "ExcelOperation\\Model\\ExcelDataImportRequest.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAgwAoAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-08T06:27:15.709Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ExcelDataImportWorker.cs",
-              "DocumentMoniker": "C:\\Users\\AMC Dev\\Desktop\\Tanvir\\ExcelOperation\\ExcelOperation\\Workers\\ExcelDataImportWorker.cs",
-              "RelativeDocumentMoniker": "ExcelOperation\\Workers\\ExcelDataImportWorker.cs",
-              "ToolTip": "C:\\Users\\AMC Dev\\Desktop\\Tanvir\\ExcelOperation\\ExcelOperation\\Workers\\ExcelDataImportWorker.cs",
-              "RelativeToolTip": "ExcelOperation\\Workers\\ExcelDataImportWorker.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-08T10:32:31.686Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ExcelDataImportServices.cs",
-              "DocumentMoniker": "C:\\Users\\AMC Dev\\Desktop\\Tanvir\\ExcelOperation\\ExcelOperation\\Services\\ExcelDataImportServices.cs",
-              "RelativeDocumentMoniker": "ExcelOperation\\Services\\ExcelDataImportServices.cs",
-              "ToolTip": "C:\\Users\\AMC Dev\\Desktop\\Tanvir\\ExcelOperation\\ExcelOperation\\Services\\ExcelDataImportServices.cs",
-              "RelativeToolTip": "ExcelOperation\\Services\\ExcelDataImportServices.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBQAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-08T06:08:53.083Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Users\\AMC Dev\\Desktop\\Tanvir\\ExcelOperation\\ExcelOperation\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "ExcelOperation\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Users\\AMC Dev\\Desktop\\Tanvir\\ExcelOperation\\ExcelOperation\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "ExcelOperation\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAAwAIAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-08T07:09:23.222Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\AMC Dev\\Desktop\\Tanvir\\ExcelOperation\\ExcelOperation\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Md. Tanvir Ahmed\\Desktop\\Animedcare\\.dot-net\\ExcelOperation\\ExcelOperation\\Program.cs",
               "RelativeDocumentMoniker": "ExcelOperation\\Program.cs",
-              "ToolTip": "C:\\Users\\AMC Dev\\Desktop\\Tanvir\\ExcelOperation\\ExcelOperation\\Program.cs",
+              "ToolTip": "C:\\Users\\Md. Tanvir Ahmed\\Desktop\\Animedcare\\.dot-net\\ExcelOperation\\ExcelOperation\\Program.cs",
               "RelativeToolTip": "ExcelOperation\\Program.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAIwBIAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-08T05:01:33.102Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\AMC Dev\\Desktop\\Tanvir\\ExcelOperation\\ExcelOperation\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "ExcelOperation\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\AMC Dev\\Desktop\\Tanvir\\ExcelOperation\\ExcelOperation\\Properties\\launchSettings.json",
-              "RelativeToolTip": "ExcelOperation\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-08T11:58:40.17Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\AMC Dev\\Desktop\\Tanvir\\ExcelOperation\\ExcelOperation\\appsettings.json",
-              "RelativeDocumentMoniker": "ExcelOperation\\appsettings.json",
-              "ToolTip": "C:\\Users\\AMC Dev\\Desktop\\Tanvir\\ExcelOperation\\ExcelOperation\\appsettings.json",
-              "RelativeToolTip": "ExcelOperation\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-08T05:09:18.036Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "SimpleService1.cs",
-              "DocumentMoniker": "C:\\Users\\AMC Dev\\Desktop\\Tanvir\\ExcelOperation\\ExcelOperation\\BackgroundServices\\SimpleService1.cs",
-              "RelativeDocumentMoniker": "ExcelOperation\\BackgroundServices\\SimpleService1.cs",
-              "ToolTip": "C:\\Users\\AMC Dev\\Desktop\\Tanvir\\ExcelOperation\\ExcelOperation\\BackgroundServices\\SimpleService1.cs",
-              "RelativeToolTip": "ExcelOperation\\BackgroundServices\\SimpleService1.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAIA4wBwAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-08T08:01:10.697Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ExcelOperation",
-              "DocumentMoniker": "C:\\Users\\AMC Dev\\Desktop\\Tanvir\\ExcelOperation\\ExcelOperation\\ExcelOperation.csproj",
-              "RelativeDocumentMoniker": "ExcelOperation\\ExcelOperation.csproj",
-              "ToolTip": "C:\\Users\\AMC Dev\\Desktop\\Tanvir\\ExcelOperation\\ExcelOperation\\ExcelOperation.csproj",
-              "RelativeToolTip": "ExcelOperation\\ExcelOperation.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-08T05:11:07.163Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "SimpleService2.cs",
-              "DocumentMoniker": "C:\\Users\\AMC Dev\\Desktop\\Tanvir\\ExcelOperation\\ExcelOperation\\BackgroundServices\\SimpleService2.cs",
-              "RelativeDocumentMoniker": "ExcelOperation\\BackgroundServices\\SimpleService2.cs",
-              "ToolTip": "C:\\Users\\AMC Dev\\Desktop\\Tanvir\\ExcelOperation\\ExcelOperation\\BackgroundServices\\SimpleService2.cs",
-              "RelativeToolTip": "ExcelOperation\\BackgroundServices\\SimpleService2.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-08T08:14:23.832Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "20250208052936_Creating Student table.cs",
-              "DocumentMoniker": "C:\\Users\\AMC Dev\\Desktop\\Tanvir\\ExcelOperation\\ExcelOperation\\Migrations\\20250208052936_Creating Student table.cs",
-              "RelativeDocumentMoniker": "ExcelOperation\\Migrations\\20250208052936_Creating Student table.cs",
-              "ToolTip": "C:\\Users\\AMC Dev\\Desktop\\Tanvir\\ExcelOperation\\ExcelOperation\\Migrations\\20250208052936_Creating Student table.cs",
-              "RelativeToolTip": "ExcelOperation\\Migrations\\20250208052936_Creating Student table.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-08T05:29:36.358Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 7,
               "Title": "StudentDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\AMC Dev\\Desktop\\Tanvir\\ExcelOperation\\ExcelOperation\\Model\\StudentDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Md. Tanvir Ahmed\\Desktop\\Animedcare\\.dot-net\\ExcelOperation\\ExcelOperation\\Model\\StudentDbContext.cs",
               "RelativeDocumentMoniker": "ExcelOperation\\Model\\StudentDbContext.cs",
-              "ToolTip": "C:\\Users\\AMC Dev\\Desktop\\Tanvir\\ExcelOperation\\ExcelOperation\\Model\\StudentDbContext.cs",
+              "ToolTip": "C:\\Users\\Md. Tanvir Ahmed\\Desktop\\Animedcare\\.dot-net\\ExcelOperation\\ExcelOperation\\Model\\StudentDbContext.cs",
               "RelativeToolTip": "ExcelOperation\\Model\\StudentDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-08T05:17:22.567Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MemberController.cs",
+              "DocumentMoniker": "C:\\Users\\Md. Tanvir Ahmed\\Desktop\\Animedcare\\.dot-net\\ExcelOperation\\ExcelOperation\\Controllers\\MemberController.cs",
+              "RelativeDocumentMoniker": "ExcelOperation\\Controllers\\MemberController.cs",
+              "ToolTip": "C:\\Users\\Md. Tanvir Ahmed\\Desktop\\Animedcare\\.dot-net\\ExcelOperation\\ExcelOperation\\Controllers\\MemberController.cs",
+              "RelativeToolTip": "ExcelOperation\\Controllers\\MemberController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAiwAoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T10:40:59.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExcelDataImportWorker.cs",
+              "DocumentMoniker": "C:\\Users\\Md. Tanvir Ahmed\\Desktop\\Animedcare\\.dot-net\\ExcelOperation\\ExcelOperation\\Workers\\ExcelDataImportWorker.cs",
+              "RelativeDocumentMoniker": "ExcelOperation\\Workers\\ExcelDataImportWorker.cs",
+              "ToolTip": "C:\\Users\\Md. Tanvir Ahmed\\Desktop\\Animedcare\\.dot-net\\ExcelOperation\\ExcelOperation\\Workers\\ExcelDataImportWorker.cs",
+              "RelativeToolTip": "ExcelOperation\\Workers\\ExcelDataImportWorker.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T10:32:31.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ExcelDataImportRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Md. Tanvir Ahmed\\Desktop\\Animedcare\\.dot-net\\ExcelOperation\\ExcelOperation\\Model\\ExcelDataImportRequest.cs",
+              "RelativeDocumentMoniker": "ExcelOperation\\Model\\ExcelDataImportRequest.cs",
+              "ToolTip": "C:\\Users\\Md. Tanvir Ahmed\\Desktop\\Animedcare\\.dot-net\\ExcelOperation\\ExcelOperation\\Model\\ExcelDataImportRequest.cs",
+              "RelativeToolTip": "ExcelOperation\\Model\\ExcelDataImportRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T06:27:15.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Md. Tanvir Ahmed\\Desktop\\Animedcare\\.dot-net\\ExcelOperation\\ExcelOperation\\Model\\Student.cs",
+              "RelativeDocumentMoniker": "ExcelOperation\\Model\\Student.cs",
+              "ToolTip": "C:\\Users\\Md. Tanvir Ahmed\\Desktop\\Animedcare\\.dot-net\\ExcelOperation\\ExcelOperation\\Model\\Student.cs",
+              "RelativeToolTip": "ExcelOperation\\Model\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T05:15:36.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UploadResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Md. Tanvir Ahmed\\Desktop\\Animedcare\\.dot-net\\ExcelOperation\\ExcelOperation\\Model\\UploadResponse.cs",
+              "RelativeDocumentMoniker": "ExcelOperation\\Model\\UploadResponse.cs",
+              "ToolTip": "C:\\Users\\Md. Tanvir Ahmed\\Desktop\\Animedcare\\.dot-net\\ExcelOperation\\ExcelOperation\\Model\\UploadResponse.cs",
+              "RelativeToolTip": "ExcelOperation\\Model\\UploadResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T06:14:50.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UploadRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Md. Tanvir Ahmed\\Desktop\\Animedcare\\.dot-net\\ExcelOperation\\ExcelOperation\\Model\\UploadRequest.cs",
+              "RelativeDocumentMoniker": "ExcelOperation\\Model\\UploadRequest.cs",
+              "ToolTip": "C:\\Users\\Md. Tanvir Ahmed\\Desktop\\Animedcare\\.dot-net\\ExcelOperation\\ExcelOperation\\Model\\UploadRequest.cs",
+              "RelativeToolTip": "ExcelOperation\\Model\\UploadRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T06:11:23.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ExcelDataImportServices.cs",
+              "DocumentMoniker": "C:\\Users\\Md. Tanvir Ahmed\\Desktop\\Animedcare\\.dot-net\\ExcelOperation\\ExcelOperation\\Services\\ExcelDataImportServices.cs",
+              "RelativeDocumentMoniker": "ExcelOperation\\Services\\ExcelDataImportServices.cs",
+              "ToolTip": "C:\\Users\\Md. Tanvir Ahmed\\Desktop\\Animedcare\\.dot-net\\ExcelOperation\\ExcelOperation\\Services\\ExcelDataImportServices.cs",
+              "RelativeToolTip": "ExcelOperation\\Services\\ExcelDataImportServices.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T06:08:53.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Md. Tanvir Ahmed\\Desktop\\Animedcare\\.dot-net\\ExcelOperation\\ExcelOperation\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "ExcelOperation\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Md. Tanvir Ahmed\\Desktop\\Animedcare\\.dot-net\\ExcelOperation\\ExcelOperation\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "ExcelOperation\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwAIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T07:09:23.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Md. Tanvir Ahmed\\Desktop\\Animedcare\\.dot-net\\ExcelOperation\\ExcelOperation\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ExcelOperation\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Md. Tanvir Ahmed\\Desktop\\Animedcare\\.dot-net\\ExcelOperation\\ExcelOperation\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ExcelOperation\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-08T11:58:40.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Md. Tanvir Ahmed\\Desktop\\Animedcare\\.dot-net\\ExcelOperation\\ExcelOperation\\appsettings.json",
+              "RelativeDocumentMoniker": "ExcelOperation\\appsettings.json",
+              "ToolTip": "C:\\Users\\Md. Tanvir Ahmed\\Desktop\\Animedcare\\.dot-net\\ExcelOperation\\ExcelOperation\\appsettings.json",
+              "RelativeToolTip": "ExcelOperation\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-08T05:09:18.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SimpleService1.cs",
+              "DocumentMoniker": "C:\\Users\\Md. Tanvir Ahmed\\Desktop\\Animedcare\\.dot-net\\ExcelOperation\\ExcelOperation\\BackgroundServices\\SimpleService1.cs",
+              "RelativeDocumentMoniker": "ExcelOperation\\BackgroundServices\\SimpleService1.cs",
+              "ToolTip": "C:\\Users\\Md. Tanvir Ahmed\\Desktop\\Animedcare\\.dot-net\\ExcelOperation\\ExcelOperation\\BackgroundServices\\SimpleService1.cs",
+              "RelativeToolTip": "ExcelOperation\\BackgroundServices\\SimpleService1.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAIA4wBwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T08:01:10.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ExcelOperation.csproj",
+              "DocumentMoniker": "C:\\Users\\Md. Tanvir Ahmed\\Desktop\\Animedcare\\.dot-net\\ExcelOperation\\ExcelOperation\\ExcelOperation.csproj",
+              "RelativeDocumentMoniker": "ExcelOperation\\ExcelOperation.csproj",
+              "ToolTip": "C:\\Users\\Md. Tanvir Ahmed\\Desktop\\Animedcare\\.dot-net\\ExcelOperation\\ExcelOperation\\ExcelOperation.csproj",
+              "RelativeToolTip": "ExcelOperation\\ExcelOperation.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-08T05:11:07.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SimpleService2.cs",
+              "DocumentMoniker": "C:\\Users\\Md. Tanvir Ahmed\\Desktop\\Animedcare\\.dot-net\\ExcelOperation\\ExcelOperation\\BackgroundServices\\SimpleService2.cs",
+              "RelativeDocumentMoniker": "ExcelOperation\\BackgroundServices\\SimpleService2.cs",
+              "ToolTip": "C:\\Users\\Md. Tanvir Ahmed\\Desktop\\Animedcare\\.dot-net\\ExcelOperation\\ExcelOperation\\BackgroundServices\\SimpleService2.cs",
+              "RelativeToolTip": "ExcelOperation\\BackgroundServices\\SimpleService2.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T08:14:23.832Z"
             }
           ]
         }
