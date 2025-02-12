@@ -1,0 +1,17 @@
+C:\Users\AMC Dev\Desktop\Tanvir\DemoAnimedCare\Animedcare.Service\obj\Debug\net5.0\Animedcare.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AMC Dev\Desktop\Tanvir\DemoAnimedCare\Animedcare.Service\obj\Debug\net5.0\Animedcare.Service.AssemblyInfoInputs.cache
+C:\Users\AMC Dev\Desktop\Tanvir\DemoAnimedCare\Animedcare.Service\obj\Debug\net5.0\Animedcare.Service.AssemblyInfo.cs
+C:\Users\AMC Dev\Desktop\Tanvir\DemoAnimedCare\Animedcare.Service\obj\Debug\net5.0\Animedcare.Service.csproj.CoreCompileInputs.cache
+C:\Users\AMC Dev\Desktop\Tanvir\DemoAnimedCare\Animedcare.Service\bin\Debug\net5.0\Animedcare.Service.deps.json
+C:\Users\AMC Dev\Desktop\Tanvir\DemoAnimedCare\Animedcare.Service\bin\Debug\net5.0\Animedcare.Service.dll
+C:\Users\AMC Dev\Desktop\Tanvir\DemoAnimedCare\Animedcare.Service\bin\Debug\net5.0\Animedcare.Service.pdb
+C:\Users\AMC Dev\Desktop\Tanvir\DemoAnimedCare\Animedcare.Service\bin\Debug\net5.0\Animedcare.Data.dll
+C:\Users\AMC Dev\Desktop\Tanvir\DemoAnimedCare\Animedcare.Service\bin\Debug\net5.0\Animedcare.Repository.dll
+C:\Users\AMC Dev\Desktop\Tanvir\DemoAnimedCare\Animedcare.Service\bin\Debug\net5.0\Animedcare.Data.pdb
+C:\Users\AMC Dev\Desktop\Tanvir\DemoAnimedCare\Animedcare.Service\bin\Debug\net5.0\Animedcare.Repository.pdb
+C:\Users\AMC Dev\Desktop\Tanvir\DemoAnimedCare\Animedcare.Service\obj\Debug\net5.0\Animedcare.Service.csproj.AssemblyReference.cache
+C:\Users\AMC Dev\Desktop\Tanvir\DemoAnimedCare\Animedcare.Service\obj\Debug\net5.0\Animedca.7B1A1761.Up2Date
+C:\Users\AMC Dev\Desktop\Tanvir\DemoAnimedCare\Animedcare.Service\obj\Debug\net5.0\Animedcare.Service.dll
+C:\Users\AMC Dev\Desktop\Tanvir\DemoAnimedCare\Animedcare.Service\obj\Debug\net5.0\refint\Animedcare.Service.dll
+C:\Users\AMC Dev\Desktop\Tanvir\DemoAnimedCare\Animedcare.Service\obj\Debug\net5.0\Animedcare.Service.pdb
+C:\Users\AMC Dev\Desktop\Tanvir\DemoAnimedCare\Animedcare.Service\obj\Debug\net5.0\ref\Animedcare.Service.dll

@@ -100,6 +100,24 @@ namespace ExcelOpertationInMVC.Controllers
                 // If file extension of the uploaded file is different then .xlsx
                 ViewBag.Message = "Please select file with .xlsx extension!";
             }
+            /*
+             *  <tr>
+                    @for (int i = 0; i < Model.Columns.Count; i++)
+                    {
+                        <th>@Model.Columns[i].ColumnName</th>
+                    }
+                </tr>
+                @for (int i = 0; i < Model.Rows.Count; i++)
+                {
+                    <tr>
+                        @for (int j = 0; j < Model.Columns.Count; j++)
+                        {
+                            <td>@Model.Rows[i][j]</td>
+                        }
+                    </tr>
+                }
+             */
+            var x=dt.Columns[1];
             return View(dt);
         }
     }

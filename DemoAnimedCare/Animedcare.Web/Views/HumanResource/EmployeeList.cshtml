@@ -1,0 +1,128 @@
+﻿@using Animedcare.Data.Employees 
+ @model EmployeeListViewModel
+
+@{
+    ViewData["Title"] = "Employee List";
+}
+
+<div class="container">
+    <div class="d-flex justify-content-end mb-4">
+        <a href="/HumanResource/RegisterEmployee" class="btn btn-primary"> + Add New </a>
+    </div>
+    <form asp-action="EmployeeList" method="get">
+        <div class="d-flex justify-content-end">
+            <div class="mb-3 col-md-4" style="margin-right:5px;">
+                <input type="text" class="form-control" asp-for="PaginationRequest.Search" placeholder="Search Employee" />
+            </div>
+            <div cite="col-md-4">
+                <button type="submit" class="btn btn-primary">
+                    <i class="fa fa-search"></i>Search
+                </button>
+            </div>
+
+        </div>
+    </form>
+    <table class="table table-bordered table-hover">
+        <thead class="thead-light">
+            <tr>
+                <th scope="col">Code</th>
+                <th scope="col">Name</th>
+                <th scope="col">DOB</th>
+                <th scope="col">Join Date</th>
+                <th scope="col">Email</th>
+                <th scope="col">Mobile Number</th>
+                <th scope="col">Status</th>
+                <th scope="col">Action</th>
+            </tr>
+        </thead>
+        <tbody>
+            @if (Model != null)
+            {
+                @foreach (var employee in Model.Data)
+                {
+                    <tr>
+                        <td>@employee.EmployeeCode</td>
+                        <td>
+                            @employee.EnglishName
+                            @if (employee?.ResignationDate != null)
+                            {
+                                <span class="badge bg-danger py-1 px-3 rounded-pill">Resigned</span>
+                            }
+                            @if (employee?.Status == "Inactive")
+                            {
+                                <span class="badge bg-danger py-1 px-3 rounded-pill">Inactive</span>
+                            }
+                        </td>
+                        <td>@(employee.DateOfBirth.HasValue ? employee.DateOfBirth.Value.ToString("d MMM yyyy") : "N/A")</td>
+                        <td>@(employee.JoinedDate.HasValue ? employee.JoinedDate.Value.ToString("d MMM yyyy") : "N/A")</td>
+                        <td>@employee.Email</td>
+                        <td>@employee.ContactNumber</td>
+                        <td>@employee.Status</td>
+                        <td style="white-space:nowrap">
+                            <a asp-action="EditEmployee" asp-controller="HumanResource" asp-route-employeeId="@employee.Id" asp-route-viewName="_RegisterEmployeePartial" asp-route-actionName="Edit" class="btn btn-warning">
+                                <i class='bx bx-edit'></i>
+                            </a>
+                            <a asp-action="EmployeeProfile" asp-controller="HumanResource" asp-route-id="@employee.Id" class="btn btn-info">
+                                <i class='bx bx-user'></i>
+                            </a>
+                        </td>
+                    </tr>
+                }
+            }
+        </tbody>
+    </table>
+    <div class="row">
+        @if (Model.TotalPages > 0)
+        {
+            <div class="d-flex justify-content-end">
+                <ul class="pagination">
+                    <!-- "First" and "Previous" buttons -->
+                    @if (Model.PaginationRequest.PageNumber > 1)
+                    {
+                        <li class="page-item">
+                            <a class="page-link" href="@Url.Action("EmployeeList", new { PageNumber = 1, PageSize = Model.PaginationRequest.PageSize })">First</a>
+                        </li>
+                        <li class="page-item">
+                            <a class="page-link" href="@Url.Action("EmployeeList", new { PageNumber = Model.PaginationRequest.PageNumber - 1, PageSize = Model.PaginationRequest.PageSize })">Previous</a>
+                        </li>
+                    }
+
+                    <!-- Page Number Links (Show 5 pages around the current page) -->
+                    @{
+                        // Calculate start and end page numbers for the current range
+                        int startPage = Math.Max(1, Model.PaginationRequest.PageNumber - 2); // Ensure it doesn't go below 1
+                        int endPage = Math.Min(Model.TotalPages, Model.PaginationRequest.PageNumber + 2); // Ensure it doesn't go above the total pages
+
+                        // Adjust range when we're close to the beginning or end
+                        if (Model.PaginationRequest.PageNumber <= 3)
+                        {
+                            endPage = Math.Min(5, Model.TotalPages); // Limit the number to 5 if we're at the start
+                        }
+                        else if (Model.PaginationRequest.PageNumber >= Model.TotalPages - 2)
+                        {
+                            startPage = Math.Max(Model.TotalPages - 4, 1); // Limit the number to 5 if we're at the end
+                        }
+                    }
+
+                    @for (int i = startPage; i <= endPage; i++)
+                    {
+                        <li class="page-item @(i == Model.PaginationRequest.PageNumber ? "active" : "")">
+                            <a class="page-link" href="@Url.Action("EmployeeList", new { PageNumber = i, PageSize = Model.PaginationRequest.PageSize })">@i</a>
+                        </li>
+                    }
+
+                    <!-- "Next" and "Last" buttons -->
+                    @if (Model.PaginationRequest.PageNumber < Model.TotalPages)
+                    {
+                        <li class="page-item">
+                            <a class="page-link" href="@Url.Action("EmployeeList", new { PageNumber = Model.PaginationRequest.PageNumber + 1, PageSize = Model.PaginationRequest.PageSize })">Next</a>
+                        </li>
+                        <li class="page-item">
+                            <a class="page-link" href="@Url.Action("EmployeeList", new { PageNumber = Model.TotalPages, PageSize = Model.PaginationRequest.PageSize })">Last</a>
+                        </li>
+                    }
+                </ul>
+            </div>
+        }
+    </div>
+</div>

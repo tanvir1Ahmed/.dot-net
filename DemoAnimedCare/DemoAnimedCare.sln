@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Animedcare.Service", "Animedcare.Service\Animedcare.Service.csproj", "{3BFF2CB7-4462-4CB7-9457-C0DBF105687F}"
+	ProjectSection(ProjectDependencies) = postProject
+		{469E5BC9-F7B8-4013-A6C3-8535287033C2} = {469E5BC9-F7B8-4013-A6C3-8535287033C2}
+		{E9E19C1E-5335-4FB8-8C5A-872AB95445E1} = {E9E19C1E-5335-4FB8-8C5A-872AB95445E1}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Animedcare.Repository", "Animedcare.Repository\Animedcare.Repository.csproj", "{469E5BC9-F7B8-4013-A6C3-8535287033C2}"
+	ProjectSection(ProjectDependencies) = postProject
+		{E9E19C1E-5335-4FB8-8C5A-872AB95445E1} = {E9E19C1E-5335-4FB8-8C5A-872AB95445E1}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Animedcare.Data", "Animedcare.Data\Animedcare.Data.csproj", "{E9E19C1E-5335-4FB8-8C5A-872AB95445E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Animedcare.Web", "Animedcare.Web\Animedcare.Web.csproj", "{358B2F95-EF6F-4F73-AA7A-363D8FA409AB}"
+	ProjectSection(ProjectDependencies) = postProject
+		{E9E19C1E-5335-4FB8-8C5A-872AB95445E1} = {E9E19C1E-5335-4FB8-8C5A-872AB95445E1}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3BFF2CB7-4462-4CB7-9457-C0DBF105687F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BFF2CB7-4462-4CB7-9457-C0DBF105687F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BFF2CB7-4462-4CB7-9457-C0DBF105687F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BFF2CB7-4462-4CB7-9457-C0DBF105687F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{469E5BC9-F7B8-4013-A6C3-8535287033C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{469E5BC9-F7B8-4013-A6C3-8535287033C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{469E5BC9-F7B8-4013-A6C3-8535287033C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{469E5BC9-F7B8-4013-A6C3-8535287033C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9E19C1E-5335-4FB8-8C5A-872AB95445E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9E19C1E-5335-4FB8-8C5A-872AB95445E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9E19C1E-5335-4FB8-8C5A-872AB95445E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9E19C1E-5335-4FB8-8C5A-872AB95445E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{358B2F95-EF6F-4F73-AA7A-363D8FA409AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{358B2F95-EF6F-4F73-AA7A-363D8FA409AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{358B2F95-EF6F-4F73-AA7A-363D8FA409AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{358B2F95-EF6F-4F73-AA7A-363D8FA409AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

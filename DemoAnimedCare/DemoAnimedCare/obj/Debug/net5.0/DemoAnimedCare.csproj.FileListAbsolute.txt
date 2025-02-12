@@ -1,0 +1,7 @@
+C:\Users\AMC Dev\Desktop\Tanvir\DemoAnimedCare\DemoAnimedCare\obj\Debug\net5.0\DemoAnimedCare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AMC Dev\Desktop\Tanvir\DemoAnimedCare\DemoAnimedCare\obj\Debug\net5.0\DemoAnimedCare.AssemblyInfoInputs.cache
+C:\Users\AMC Dev\Desktop\Tanvir\DemoAnimedCare\DemoAnimedCare\obj\Debug\net5.0\DemoAnimedCare.AssemblyInfo.cs
+C:\Users\AMC Dev\Desktop\Tanvir\DemoAnimedCare\DemoAnimedCare\obj\Debug\net5.0\DemoAnimedCare.csproj.CoreCompileInputs.cache
+C:\Users\AMC Dev\Desktop\Tanvir\DemoAnimedCare\DemoAnimedCare\obj\Debug\net5.0\DemoAnimedCare.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\AMC Dev\Desktop\Tanvir\DemoAnimedCare\DemoAnimedCare\obj\Debug\net5.0\DemoAnimedCare.RazorAssemblyInfo.cache
+C:\Users\AMC Dev\Desktop\Tanvir\DemoAnimedCare\DemoAnimedCare\obj\Debug\net5.0\DemoAnimedCare.RazorAssemblyInfo.cs

@@ -1,0 +1,411 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AMC Dev\\Desktop\\Tanvir\\DemoAnimedCare\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{358B2F95-EF6F-4F73-AA7A-363D8FA409AB}|Animedcare.Web\\Animedcare.Web.csproj|c:\\users\\amc dev\\desktop\\tanvir\\demoanimedcare\\animedcare.web\\views\\humanresource\\employeelist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{358B2F95-EF6F-4F73-AA7A-363D8FA409AB}|Animedcare.Web\\Animedcare.Web.csproj|solutionrelative:animedcare.web\\views\\humanresource\\employeelist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{358B2F95-EF6F-4F73-AA7A-363D8FA409AB}|Animedcare.Web\\Animedcare.Web.csproj|c:\\users\\amc dev\\desktop\\tanvir\\demoanimedcare\\animedcare.web\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{358B2F95-EF6F-4F73-AA7A-363D8FA409AB}|Animedcare.Web\\Animedcare.Web.csproj|solutionrelative:animedcare.web\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BFF2CB7-4462-4CB7-9457-C0DBF105687F}|Animedcare.Service\\Animedcare.Service.csproj|c:\\users\\amc dev\\desktop\\tanvir\\demoanimedcare\\animedcare.service\\employeesservice\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BFF2CB7-4462-4CB7-9457-C0DBF105687F}|Animedcare.Service\\Animedcare.Service.csproj|solutionrelative:animedcare.service\\employeesservice\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BFF2CB7-4462-4CB7-9457-C0DBF105687F}|Animedcare.Service\\Animedcare.Service.csproj|c:\\users\\amc dev\\desktop\\tanvir\\demoanimedcare\\animedcare.service\\employeesservice\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BFF2CB7-4462-4CB7-9457-C0DBF105687F}|Animedcare.Service\\Animedcare.Service.csproj|solutionrelative:animedcare.service\\employeesservice\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{358B2F95-EF6F-4F73-AA7A-363D8FA409AB}|Animedcare.Web\\Animedcare.Web.csproj|c:\\users\\amc dev\\desktop\\tanvir\\demoanimedcare\\animedcare.web\\animedcare.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{358B2F95-EF6F-4F73-AA7A-363D8FA409AB}|Animedcare.Web\\Animedcare.Web.csproj|solutionrelative:animedcare.web\\animedcare.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{358B2F95-EF6F-4F73-AA7A-363D8FA409AB}|Animedcare.Web\\Animedcare.Web.csproj|c:\\users\\amc dev\\desktop\\tanvir\\demoanimedcare\\animedcare.web\\controllers\\humanresourcecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{358B2F95-EF6F-4F73-AA7A-363D8FA409AB}|Animedcare.Web\\Animedcare.Web.csproj|solutionrelative:animedcare.web\\controllers\\humanresourcecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{358B2F95-EF6F-4F73-AA7A-363D8FA409AB}|Animedcare.Web\\Animedcare.Web.csproj|c:\\users\\amc dev\\desktop\\tanvir\\demoanimedcare\\animedcare.web\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{358B2F95-EF6F-4F73-AA7A-363D8FA409AB}|Animedcare.Web\\Animedcare.Web.csproj|solutionrelative:animedcare.web\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{469E5BC9-F7B8-4013-A6C3-8535287033C2}|Animedcare.Repository\\Animedcare.Repository.csproj|c:\\users\\amc dev\\desktop\\tanvir\\demoanimedcare\\animedcare.repository\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{469E5BC9-F7B8-4013-A6C3-8535287033C2}|Animedcare.Repository\\Animedcare.Repository.csproj|solutionrelative:animedcare.repository\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{469E5BC9-F7B8-4013-A6C3-8535287033C2}|Animedcare.Repository\\Animedcare.Repository.csproj|c:\\users\\amc dev\\desktop\\tanvir\\demoanimedcare\\animedcare.repository\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{469E5BC9-F7B8-4013-A6C3-8535287033C2}|Animedcare.Repository\\Animedcare.Repository.csproj|solutionrelative:animedcare.repository\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{469E5BC9-F7B8-4013-A6C3-8535287033C2}|Animedcare.Repository\\Animedcare.Repository.csproj|c:\\users\\amc dev\\desktop\\tanvir\\demoanimedcare\\animedcare.repository\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{469E5BC9-F7B8-4013-A6C3-8535287033C2}|Animedcare.Repository\\Animedcare.Repository.csproj|solutionrelative:animedcare.repository\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{469E5BC9-F7B8-4013-A6C3-8535287033C2}|Animedcare.Repository\\Animedcare.Repository.csproj|c:\\users\\amc dev\\desktop\\tanvir\\demoanimedcare\\animedcare.repository\\animedcare.repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{469E5BC9-F7B8-4013-A6C3-8535287033C2}|Animedcare.Repository\\Animedcare.Repository.csproj|solutionrelative:animedcare.repository\\animedcare.repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BFF2CB7-4462-4CB7-9457-C0DBF105687F}|Animedcare.Service\\Animedcare.Service.csproj|c:\\users\\amc dev\\desktop\\tanvir\\demoanimedcare\\animedcare.service\\animedcare.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3BFF2CB7-4462-4CB7-9457-C0DBF105687F}|Animedcare.Service\\Animedcare.Service.csproj|solutionrelative:animedcare.service\\animedcare.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{358B2F95-EF6F-4F73-AA7A-363D8FA409AB}|Animedcare.Web\\Animedcare.Web.csproj|c:\\users\\amc dev\\desktop\\tanvir\\demoanimedcare\\animedcare.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{358B2F95-EF6F-4F73-AA7A-363D8FA409AB}|Animedcare.Web\\Animedcare.Web.csproj|solutionrelative:animedcare.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E19C1E-5335-4FB8-8C5A-872AB95445E1}|Animedcare.Data\\Animedcare.Data.csproj|c:\\users\\amc dev\\desktop\\tanvir\\demoanimedcare\\animedcare.data\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9E19C1E-5335-4FB8-8C5A-872AB95445E1}|Animedcare.Data\\Animedcare.Data.csproj|solutionrelative:animedcare.data\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E19C1E-5335-4FB8-8C5A-872AB95445E1}|Animedcare.Data\\Animedcare.Data.csproj|c:\\users\\amc dev\\desktop\\tanvir\\demoanimedcare\\animedcare.data\\models\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9E19C1E-5335-4FB8-8C5A-872AB95445E1}|Animedcare.Data\\Animedcare.Data.csproj|solutionrelative:animedcare.data\\models\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E19C1E-5335-4FB8-8C5A-872AB95445E1}|Animedcare.Data\\Animedcare.Data.csproj|c:\\users\\amc dev\\desktop\\tanvir\\demoanimedcare\\animedcare.data\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9E19C1E-5335-4FB8-8C5A-872AB95445E1}|Animedcare.Data\\Animedcare.Data.csproj|solutionrelative:animedcare.data\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E19C1E-5335-4FB8-8C5A-872AB95445E1}|Animedcare.Data\\Animedcare.Data.csproj|c:\\users\\amc dev\\desktop\\tanvir\\demoanimedcare\\animedcare.data\\employees\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9E19C1E-5335-4FB8-8C5A-872AB95445E1}|Animedcare.Data\\Animedcare.Data.csproj|solutionrelative:animedcare.data\\employees\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E19C1E-5335-4FB8-8C5A-872AB95445E1}|Animedcare.Data\\Animedcare.Data.csproj|c:\\users\\amc dev\\desktop\\tanvir\\demoanimedcare\\animedcare.data\\paginations\\paginationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9E19C1E-5335-4FB8-8C5A-872AB95445E1}|Animedcare.Data\\Animedcare.Data.csproj|solutionrelative:animedcare.data\\paginations\\paginationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E19C1E-5335-4FB8-8C5A-872AB95445E1}|Animedcare.Data\\Animedcare.Data.csproj|c:\\users\\amc dev\\desktop\\tanvir\\demoanimedcare\\animedcare.data\\employees\\employeelistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9E19C1E-5335-4FB8-8C5A-872AB95445E1}|Animedcare.Data\\Animedcare.Data.csproj|solutionrelative:animedcare.data\\employees\\employeelistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E19C1E-5335-4FB8-8C5A-872AB95445E1}|Animedcare.Data\\Animedcare.Data.csproj|c:\\users\\amc dev\\desktop\\tanvir\\demoanimedcare\\animedcare.data\\animedcare.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E9E19C1E-5335-4FB8-8C5A-872AB95445E1}|Animedcare.Data\\Animedcare.Data.csproj|solutionrelative:animedcare.data\\animedcare.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E19C1E-5335-4FB8-8C5A-872AB95445E1}|Animedcare.Data\\Animedcare.Data.csproj|c:\\users\\amc dev\\desktop\\tanvir\\demoanimedcare\\animedcare.data\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9E19C1E-5335-4FB8-8C5A-872AB95445E1}|Animedcare.Data\\Animedcare.Data.csproj|solutionrelative:animedcare.data\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{469E5BC9-F7B8-4013-A6C3-8535287033C2}|Animedcare.Repository\\Animedcare.Repository.csproj|c:\\users\\amc dev\\desktop\\tanvir\\demoanimedcare\\animedcare.repository\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{469E5BC9-F7B8-4013-A6C3-8535287033C2}|Animedcare.Repository\\Animedcare.Repository.csproj|solutionrelative:animedcare.repository\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BFF2CB7-4462-4CB7-9457-C0DBF105687F}|Animedcare.Service\\Animedcare.Service.csproj|c:\\users\\amc dev\\desktop\\tanvir\\demoanimedcare\\animedcare.service\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BFF2CB7-4462-4CB7-9457-C0DBF105687F}|Animedcare.Service\\Animedcare.Service.csproj|solutionrelative:animedcare.service\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\AMC Dev\\Desktop\\Tanvir\\DemoAnimedCare\\Animedcare.Web\\Startup.cs",
+              "RelativeDocumentMoniker": "Animedcare.Web\\Startup.cs",
+              "ToolTip": "C:\\Users\\AMC Dev\\Desktop\\Tanvir\\DemoAnimedCare\\Animedcare.Web\\Startup.cs*",
+              "RelativeToolTip": "Animedcare.Web\\Startup.cs*",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCEAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T09:07:09.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\AMC Dev\\Desktop\\Tanvir\\DemoAnimedCare\\Animedcare.Service\\EmployeesService\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "Animedcare.Service\\EmployeesService\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\AMC Dev\\Desktop\\Tanvir\\DemoAnimedCare\\Animedcare.Service\\EmployeesService\\EmployeeService.cs*",
+              "RelativeToolTip": "Animedcare.Service\\EmployeesService\\EmployeeService.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T06:51:46.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\AMC Dev\\Desktop\\Tanvir\\DemoAnimedCare\\Animedcare.Service\\EmployeesService\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "Animedcare.Service\\EmployeesService\\IEmployeeService.cs",
+              "ToolTip": "C:\\Users\\AMC Dev\\Desktop\\Tanvir\\DemoAnimedCare\\Animedcare.Service\\EmployeesService\\IEmployeeService.cs",
+              "RelativeToolTip": "Animedcare.Service\\EmployeesService\\IEmployeeService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T07:23:54.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeList.cshtml",
+              "DocumentMoniker": "C:\\Users\\AMC Dev\\Desktop\\Tanvir\\DemoAnimedCare\\Animedcare.Web\\Views\\HumanResource\\EmployeeList.cshtml",
+              "RelativeDocumentMoniker": "Animedcare.Web\\Views\\HumanResource\\EmployeeList.cshtml",
+              "ToolTip": "C:\\Users\\AMC Dev\\Desktop\\Tanvir\\DemoAnimedCare\\Animedcare.Web\\Views\\HumanResource\\EmployeeList.cshtml",
+              "RelativeToolTip": "Animedcare.Web\\Views\\HumanResource\\EmployeeList.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-12T07:31:08.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Animedcare.Web",
+              "DocumentMoniker": "C:\\Users\\AMC Dev\\Desktop\\Tanvir\\DemoAnimedCare\\Animedcare.Web\\Animedcare.Web.csproj",
+              "RelativeDocumentMoniker": "Animedcare.Web\\Animedcare.Web.csproj",
+              "ToolTip": "C:\\Users\\AMC Dev\\Desktop\\Tanvir\\DemoAnimedCare\\Animedcare.Web\\Animedcare.Web.csproj*",
+              "RelativeToolTip": "Animedcare.Web\\Animedcare.Web.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-12T09:12:59.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\AMC Dev\\Desktop\\Tanvir\\DemoAnimedCare\\Animedcare.Repository\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Animedcare.Repository\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\AMC Dev\\Desktop\\Tanvir\\DemoAnimedCare\\Animedcare.Repository\\EmployeeRepository.cs",
+              "RelativeToolTip": "Animedcare.Repository\\EmployeeRepository.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAASwBMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T07:48:00.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\AMC Dev\\Desktop\\Tanvir\\DemoAnimedCare\\Animedcare.Web\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Animedcare.Web\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\AMC Dev\\Desktop\\Tanvir\\DemoAnimedCare\\Animedcare.Web\\appsettings.Development.json",
+              "RelativeToolTip": "Animedcare.Web\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-12T08:07:15.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HumanResourceController.cs",
+              "DocumentMoniker": "C:\\Users\\AMC Dev\\Desktop\\Tanvir\\DemoAnimedCare\\Animedcare.Web\\Controllers\\HumanResourceController.cs",
+              "RelativeDocumentMoniker": "Animedcare.Web\\Controllers\\HumanResourceController.cs",
+              "ToolTip": "C:\\Users\\AMC Dev\\Desktop\\Tanvir\\DemoAnimedCare\\Animedcare.Web\\Controllers\\HumanResourceController.cs",
+              "RelativeToolTip": "Animedcare.Web\\Controllers\\HumanResourceController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAASwAcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T07:20:31.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\AMC Dev\\Desktop\\Tanvir\\DemoAnimedCare\\Animedcare.Repository\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Animedcare.Repository\\IEmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\AMC Dev\\Desktop\\Tanvir\\DemoAnimedCare\\Animedcare.Repository\\IEmployeeRepository.cs",
+              "RelativeToolTip": "Animedcare.Repository\\IEmployeeRepository.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAswAwAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T06:58:29.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Animedcare.Repository",
+              "DocumentMoniker": "C:\\Users\\AMC Dev\\Desktop\\Tanvir\\DemoAnimedCare\\Animedcare.Repository\\Animedcare.Repository.csproj",
+              "RelativeDocumentMoniker": "Animedcare.Repository\\Animedcare.Repository.csproj",
+              "ToolTip": "C:\\Users\\AMC Dev\\Desktop\\Tanvir\\DemoAnimedCare\\Animedcare.Repository\\Animedcare.Repository.csproj",
+              "RelativeToolTip": "Animedcare.Repository\\Animedcare.Repository.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-12T07:57:22.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\AMC Dev\\Desktop\\Tanvir\\DemoAnimedCare\\Animedcare.Repository\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Animedcare.Repository\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\AMC Dev\\Desktop\\Tanvir\\DemoAnimedCare\\Animedcare.Repository\\AppDbContext.cs",
+              "RelativeToolTip": "Animedcare.Repository\\AppDbContext.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAuwBMAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T07:49:45.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Animedcare.Service.csproj",
+              "DocumentMoniker": "C:\\Users\\AMC Dev\\Desktop\\Tanvir\\DemoAnimedCare\\Animedcare.Service\\Animedcare.Service.csproj",
+              "RelativeDocumentMoniker": "Animedcare.Service\\Animedcare.Service.csproj",
+              "ToolTip": "C:\\Users\\AMC Dev\\Desktop\\Tanvir\\DemoAnimedCare\\Animedcare.Service\\Animedcare.Service.csproj",
+              "RelativeToolTip": "Animedcare.Service\\Animedcare.Service.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-12T06:52:41.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\AMC Dev\\Desktop\\Tanvir\\DemoAnimedCare\\Animedcare.Web\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Animedcare.Web\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\AMC Dev\\Desktop\\Tanvir\\DemoAnimedCare\\Animedcare.Web\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Animedcare.Web\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T07:20:03.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Pet.cs",
+              "DocumentMoniker": "C:\\Users\\AMC Dev\\Desktop\\Tanvir\\DemoAnimedCare\\Animedcare.Data\\Models\\Pet.cs",
+              "RelativeDocumentMoniker": "Animedcare.Data\\Models\\Pet.cs",
+              "ToolTip": "C:\\Users\\AMC Dev\\Desktop\\Tanvir\\DemoAnimedCare\\Animedcare.Data\\Models\\Pet.cs",
+              "RelativeToolTip": "Animedcare.Data\\Models\\Pet.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAwAoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T07:12:48.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\AMC Dev\\Desktop\\Tanvir\\DemoAnimedCare\\Animedcare.Data\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Animedcare.Data\\Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\AMC Dev\\Desktop\\Tanvir\\DemoAnimedCare\\Animedcare.Data\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "Animedcare.Data\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAA9wB8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T07:05:40.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\AMC Dev\\Desktop\\Tanvir\\DemoAnimedCare\\Animedcare.Data\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Animedcare.Data\\Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\AMC Dev\\Desktop\\Tanvir\\DemoAnimedCare\\Animedcare.Data\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "Animedcare.Data\\Models\\BaseEntity.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T07:03:25.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\AMC Dev\\Desktop\\Tanvir\\DemoAnimedCare\\Animedcare.Data\\Employees\\Employee.cs",
+              "RelativeDocumentMoniker": "Animedcare.Data\\Employees\\Employee.cs",
+              "ToolTip": "C:\\Users\\AMC Dev\\Desktop\\Tanvir\\DemoAnimedCare\\Animedcare.Data\\Employees\\Employee.cs",
+              "RelativeToolTip": "Animedcare.Data\\Employees\\Employee.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAA7wB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T07:00:29.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PaginationRequest.cs",
+              "DocumentMoniker": "C:\\Users\\AMC Dev\\Desktop\\Tanvir\\DemoAnimedCare\\Animedcare.Data\\Paginations\\PaginationRequest.cs",
+              "RelativeDocumentMoniker": "Animedcare.Data\\Paginations\\PaginationRequest.cs",
+              "ToolTip": "C:\\Users\\AMC Dev\\Desktop\\Tanvir\\DemoAnimedCare\\Animedcare.Data\\Paginations\\PaginationRequest.cs",
+              "RelativeToolTip": "Animedcare.Data\\Paginations\\PaginationRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T06:46:09.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EmployeeListViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\AMC Dev\\Desktop\\Tanvir\\DemoAnimedCare\\Animedcare.Data\\Employees\\EmployeeListViewModel.cs",
+              "RelativeDocumentMoniker": "Animedcare.Data\\Employees\\EmployeeListViewModel.cs",
+              "ToolTip": "C:\\Users\\AMC Dev\\Desktop\\Tanvir\\DemoAnimedCare\\Animedcare.Data\\Employees\\EmployeeListViewModel.cs",
+              "RelativeToolTip": "Animedcare.Data\\Employees\\EmployeeListViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T06:43:37.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Animedcare.Data.csproj",
+              "DocumentMoniker": "C:\\Users\\AMC Dev\\Desktop\\Tanvir\\DemoAnimedCare\\Animedcare.Data\\Animedcare.Data.csproj",
+              "RelativeDocumentMoniker": "Animedcare.Data\\Animedcare.Data.csproj",
+              "ToolTip": "C:\\Users\\AMC Dev\\Desktop\\Tanvir\\DemoAnimedCare\\Animedcare.Data\\Animedcare.Data.csproj",
+              "RelativeToolTip": "Animedcare.Data\\Animedcare.Data.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-12T06:42:22.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\AMC Dev\\Desktop\\Tanvir\\DemoAnimedCare\\Animedcare.Data\\Class1.cs",
+              "RelativeDocumentMoniker": "Animedcare.Data\\Class1.cs",
+              "ToolTip": "C:\\Users\\AMC Dev\\Desktop\\Tanvir\\DemoAnimedCare\\Animedcare.Data\\Class1.cs",
+              "RelativeToolTip": "Animedcare.Data\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T05:41:47.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\AMC Dev\\Desktop\\Tanvir\\DemoAnimedCare\\Animedcare.Repository\\Class1.cs",
+              "RelativeDocumentMoniker": "Animedcare.Repository\\Class1.cs",
+              "ToolTip": "C:\\Users\\AMC Dev\\Desktop\\Tanvir\\DemoAnimedCare\\Animedcare.Repository\\Class1.cs",
+              "RelativeToolTip": "Animedcare.Repository\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T05:41:01.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\AMC Dev\\Desktop\\Tanvir\\DemoAnimedCare\\Animedcare.Service\\Class1.cs",
+              "RelativeDocumentMoniker": "Animedcare.Service\\Class1.cs",
+              "ToolTip": "C:\\Users\\AMC Dev\\Desktop\\Tanvir\\DemoAnimedCare\\Animedcare.Service\\Class1.cs",
+              "RelativeToolTip": "Animedcare.Service\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T05:40:04.533Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

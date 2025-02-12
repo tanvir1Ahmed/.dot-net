@@ -5456,23 +5456,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Md. Tanvir Ahmed\\.nuget\\packages\\": {},
+    "C:\\Users\\AMC Dev\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Md. Tanvir Ahmed\\Desktop\\Animedcare\\.dot-net\\ExcelOperation\\ExcelOperation\\ExcelOperation.csproj",
+      "projectUniqueName": "C:\\Users\\AMC Dev\\Desktop\\Tanvir\\.dot-net\\ExcelOperation\\ExcelOperation\\ExcelOperation.csproj",
       "projectName": "ExcelOperation",
-      "projectPath": "C:\\Users\\Md. Tanvir Ahmed\\Desktop\\Animedcare\\.dot-net\\ExcelOperation\\ExcelOperation\\ExcelOperation.csproj",
-      "packagesPath": "C:\\Users\\Md. Tanvir Ahmed\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Md. Tanvir Ahmed\\Desktop\\Animedcare\\.dot-net\\ExcelOperation\\ExcelOperation\\obj\\",
+      "projectPath": "C:\\Users\\AMC Dev\\Desktop\\Tanvir\\.dot-net\\ExcelOperation\\ExcelOperation\\ExcelOperation.csproj",
+      "packagesPath": "C:\\Users\\AMC Dev\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\AMC Dev\\Desktop\\Tanvir\\.dot-net\\ExcelOperation\\ExcelOperation\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Md. Tanvir Ahmed\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\AMC Dev\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
